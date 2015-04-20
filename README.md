@@ -9,5 +9,5 @@
 * two
   - two and a half
   - `-- two and... almost three`
-  - [yandex.ru]
+  - [www.yandex.ru]
 * three
