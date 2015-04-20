@@ -3,9 +3,10 @@
 
 >je dors peu et le peu que je dors je le dors le jour
 
-*bold
+*bold*
 
 * one
 * two
   - two and a half
+  -- two and... almost three
 * three
