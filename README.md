@@ -1,5 +1,6 @@
 # Named Entities Recognition module of the Systran LDK.
-Delivery date: 06/04/2015 17:37:26
+Package: test
+Delivery date: 06/04/2015 18:06:58
 
 This package covers the following languages:
 * Dutch
@@ -75,8 +76,7 @@ This package covers the following languages:
 | Person | 315 | 211 | 112 | 90 | 8 | 5 | 9 | 0.9056 | 0.6698 | 0.7701 |
 | Product | 74 | 31 | 50 | 40 | 7 | 0 | 3 | 0.7561 | 0.4189 | 0.5391 |
 | Time | 216 | 86 | 133 | 111 | 3 | 19 | 0 | 0.7963 | 0.3981 | 0.5309 |
-| day value="01" | 0 | 0 | 3 | 0 | 3 | 0 | 0 | 0.0000 | 0.0000 | 0.0000 |
-| TOTAL | 1263 | 663 | 707 | 503 | 107 | 56 | 41 | 0.7647 | 0.5249 | 0.6225 |
+| TOTAL | 1263 | 663 | 704 | 503 | 104 | 56 | 41 | 0.7674 | 0.5249 | 0.6234 |
 
 
 ### Italian
@@ -234,5 +234,5 @@ This package covers the following languages:
 
 
 
-Readme file generated 06/04/2015 17:37:26
+Readme file generated 06/04/2015 18:06:58
 Copyright © 2015 SYSTRAN. All rights reserved.
