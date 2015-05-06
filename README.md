@@ -1,5 +1,5 @@
 # Named Entities Recognition module of the Systran LDK.
-Delivery date: 06/04/2015 16:49:35
+Delivery date: 06/04/2015 16:52:31
 
 This package covers the following languages:
 * Dutch
@@ -20,7 +20,7 @@ This package covers the following languages:
 # Performance metrics
 
 ### German
-No data available
+*No data available*
 ---
 
 ### English
@@ -84,7 +84,7 @@ No data available
 ---
 
 ### Italian
-No data available
+*No data available*
 ---
 
 ### Korean
@@ -121,7 +121,7 @@ No data available
 ---
 
 ### Dutch
-No data available
+*No data available*
 ---
 
 ### Portuguese
@@ -207,11 +207,11 @@ No data available
 ---
 
 ### Somali
-No data available
+*No data available*
 ---
 
 ### Swedish
-No data available
+*No data available*
 ---
 
 ### Turkish
@@ -248,5 +248,5 @@ No data available
 ---
 
 
-Readme file generated 06/04/2015 16:49:35
+Readme file generated 06/04/2015 16:52:31
 Copyright © 2015 SYSTRAN. All rights reserved.
