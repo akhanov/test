@@ -1,5 +1,5 @@
 # Named Entities Recognition module of the Systran LDK.
-Delivery date: 06/04/2015 16:47:12
+Delivery date: 06/04/2015 16:49:35
 
 This package covers the following languages:
 * Dutch
@@ -248,5 +248,5 @@ No data available
 ---
 
 
-Readme file generated 06/04/2015 16:47:12
+Readme file generated 06/04/2015 16:49:35
 Copyright © 2015 SYSTRAN. All rights reserved.
