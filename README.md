@@ -1,5 +1,5 @@
 # Named Entities Recognition module of the Systran LDK.
-Delivery date: 06/04/2015 16:52:31
+Delivery date: 06/04/2015 16:54:43
 
 This package covers the following languages:
 * Dutch
@@ -21,6 +21,7 @@ This package covers the following languages:
 
 ### German
 *No data available*
+
 ---
 
 ### English
@@ -52,6 +53,7 @@ This package covers the following languages:
 | Time | 161 | 68 | 93 | 85 | 0 | 6 | 2 | 0.8947 | 0.4224 | 0.5738 |
 | TOTAL | 1555 | 816 | 981 | 597 | 242 | 91 | 51 | 0.6800 | 0.5248 | 0.5924 |
 
+
 ---
 
 ### Spanish
@@ -65,6 +67,7 @@ This package covers the following languages:
 | Product | 44 | 30 | 17 | 12 | 3 | 1 | 1 | 0.8571 | 0.6818 | 0.7595 |
 | Time | 126 | 57 | 69 | 68 | 0 | 1 | 0 | 0.9828 | 0.4524 | 0.6196 |
 | TOTAL | 1437 | 921 | 598 | 428 | 82 | 57 | 31 | 0.8442 | 0.6409 | 0.7286 |
+
 
 ---
 
@@ -81,10 +84,12 @@ This package covers the following languages:
 | day value="01" | 0 | 0 | 3 | 0 | 3 | 0 | 0 | 0.0000 | 0.0000 | 0.0000 |
 | TOTAL | 1263 | 663 | 707 | 503 | 107 | 56 | 41 | 0.7647 | 0.5249 | 0.6225 |
 
+
 ---
 
 ### Italian
 *No data available*
+
 ---
 
 ### Korean
@@ -118,10 +123,12 @@ This package covers the following languages:
 | Time | 229 | 166 | 86 | 32 | 23 | 31 | 0 | 0.7545 | 0.7249 | 0.7394 |
 | TOTAL | 1793 | 955 | 1126 | 751 | 288 | 76 | 11 | 0.7180 | 0.5326 | 0.6116 |
 
+
 ---
 
 ### Dutch
 *No data available*
+
 ---
 
 ### Portuguese
@@ -135,6 +142,7 @@ This package covers the following languages:
 | Product | 66 | 0 | 66 | 57 | 0 | 0 | 9 | 0.0000 | 0.0000 | 0.0000 |
 | Time | 140 | 27 | 116 | 113 | 3 | 0 | 0 | 0.9000 | 0.1929 | 0.3176 |
 | TOTAL | 1234 | 628 | 833 | 507 | 227 | 41 | 58 | 0.6583 | 0.5089 | 0.5740 |
+
 
 ---
 
@@ -160,6 +168,7 @@ This package covers the following languages:
 | Product | 7 | 0 | 7 | 7 | 0 | 0 | 0 | 0.0000 | 0.0000 | 0.0000 |
 | Time | 200 | 99 | 117 | 89 | 16 | 11 | 1 | 0.7795 | 0.4950 | 0.6055 |
 | TOTAL | 1707 | 706 | 1114 | 889 | 113 | 95 | 17 | 0.7583 | 0.4136 | 0.5353 |
+
 
 ---
 
@@ -190,6 +199,7 @@ This package covers the following languages:
 | Time | 95 | 91 | 5 | 2 | 1 | 2 | 0 | 0.9681 | 0.9579 | 0.9630 |
 | TOTAL | 1400 | 1097 | 436 | 252 | 133 | 35 | 16 | 0.8564 | 0.7836 | 0.8184 |
 
+
 ---
 
 ### Slovene
@@ -204,14 +214,17 @@ This package covers the following languages:
 | Time | 189 | 61 | 137 | 119 | 9 | 9 | 0 | 0.7722 | 0.3228 | 0.4552 |
 | TOTAL | 1098 | 383 | 825 | 649 | 110 | 50 | 16 | 0.6852 | 0.3488 | 0.4623 |
 
+
 ---
 
 ### Somali
 *No data available*
+
 ---
 
 ### Swedish
 *No data available*
+
 ---
 
 ### Turkish
@@ -245,8 +258,9 @@ This package covers the following languages:
 | Time | 79 | 72 | 10 | 3 | 3 | 4 | 0 | 0.9114 | 0.9114 | 0.9114 |
 | TOTAL | 1263 | 868 | 481 | 353 | 86 | 35 | 7 | 0.8715 | 0.6873 | 0.7685 |
 
+
 ---
 
 
-Readme file generated 06/04/2015 16:52:31
+Readme file generated 06/04/2015 16:54:43
 Copyright © 2015 SYSTRAN. All rights reserved.
